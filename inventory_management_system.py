@@ -1,6 +1,5 @@
 # author @ Atharv Pandey
 # date   : 19th June, 2024
-# note   : Feel free to copy, edit and modify this code
 
 
 import pandas as pd
