@@ -1,3 +1,13 @@
-This is a inventory management system built using python utilising pandas library and os module. The code is written in such a manner that it does not crash but still if any errors
-are found feel free to modify and edit the code.
-Any useful contribution will be appreciated
+# Inventory Management System
+
+## Project Summary
+
+The goal of this project is to create an inventory management system enabling users to organise their stock inventory and perform basic operation like updation, sale, deletion and traversal on it.
+
+## Tech Stack
+- Python
+- Pandas
+- OS module
+
+## Next steps
+I'm looking forward to further enhance the project by adding an user interface and introducing more options like data entry by barcode, analysis of sale data, and use of analytics to add features that benefit the user.
