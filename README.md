@@ -7,7 +7,6 @@ The goal of this project is to create an inventory management system enabling us
 ## Tech Stack
 - Python
 - Pandas
-- OS module
 
 ## Next steps
 I'm looking forward to further enhance the project by adding an user interface and introducing more options like data entry by barcode, analysis of sale data, and use of analytics to add features that benefit the user.
